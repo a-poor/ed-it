@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "1.0.0"
+	},
+	"info": {
+		"0000": {
+			"ProductVersion": "1.0.0",
+			"CompanyName": "Ed It",
+			"FileDescription": "Ed It",
+			"LegalCopyright": "Copyright.........",
+			"ProductName": "Ed It",
+			"Comments": "Built using Wails (https://wails.app)"
+		}
+	}
+}
