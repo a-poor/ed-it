@@ -1,6 +1,6 @@
 {
-  "name": "Ed It",
-  "version": "1.0.0",
+  "name": "EdIt",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "build": "rollup -c",
